@@ -1,0 +1,22 @@
+{
+  "name": "jem_react",
+  "version": "1.0.0",
+  "description": "\"Hello React\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mkdir build",
+    "say": "echo hello!",
+    "del": "rmdir biuld"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/Jem_React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/Jem_React/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/Jem_React#readme"
+}
